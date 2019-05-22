@@ -19,4 +19,4 @@
 * Then run `npm start` to open on browser localhost:3000
 
 ## Deployment
-This app is deployed on Heroku on https://afternoon-mesa-98465.herokuapp.com/
+Check out this app on Heroku: [Google Books Search]()
