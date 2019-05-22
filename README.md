@@ -19,4 +19,4 @@
 * Then run `npm start` to open on browser localhost:3000
 
 ## Deployment
-Check out this app on Heroku: [Google Books Search]()
+Check out this app on Heroku: [Google Books Search](https://git.heroku.com/calm-shelf-39694.git)
