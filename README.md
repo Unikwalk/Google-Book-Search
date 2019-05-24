@@ -32,4 +32,4 @@ Following these steps and run from the root (global) directory:
 
 ## Deployment
 
-Check out this app on Heroku: [Books Search](https://git.heroku.com/calm-shelf-39694.git)
+Check out this app on Heroku: [Books Search](https://calm-shelf-39694.herokuapp.com/)
