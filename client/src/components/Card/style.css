@@ -1,3 +1,5 @@
-.card {
-    color: #15B5B0;
+.card-header {
+    background-color: #3C6C3C;
+    color: white;
+    font-family: 'Unica One', cursive;
 }

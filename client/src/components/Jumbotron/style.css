@@ -1,5 +1,8 @@
 .jumbotron {
-  padding: 100px;
-  background-color: #FBE698;
-  color: #15B5B0
+  height: 350px;
+  background-image: url("bgimage.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  font-family: 'Unica One', cursive;
 }

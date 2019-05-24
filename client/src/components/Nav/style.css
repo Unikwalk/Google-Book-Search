@@ -1,5 +1,22 @@
 .navbar {
-  border-radius: 0;
-  font-size: 16px
+  font-size: 20px;
+  background-color: #242A3C;
+  font-family: 'Unica One', cursive;
 }
 
+.navbar-brand{
+  color: white !important;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.navbar-toggler{
+  background-color: white;
+}
+
+.nav-link:hover {
+  border-radius: 15px;
+  background-color: #C7C9D5
+}

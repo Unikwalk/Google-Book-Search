@@ -37,9 +37,8 @@ class Saved extends Component {
           <Col size="md-12">
             <Jumbotron>
               <h1 className="text-center">
-                <strong>Google Books Search</strong>
+                <strong>The Library To Read</strong>
               </h1>
-              <h3 className="text-center">Your Favorite Books</h3>
             </Jumbotron>
           </Col>
         </Row>

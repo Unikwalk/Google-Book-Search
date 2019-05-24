@@ -32,10 +32,10 @@ class Nav extends Component {
 
   render() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-light bg-light mb-2">
-        <Link className="navbar-brand" to="/">
-          Google Books
-        </Link>
+      <nav className="navbar navbar-expand-lg navbar-light mb-2">
+        <div className="navbar-brand" to="/">
+          Books Search
+        </div>
         <button
           onClick={this.toggleNav}
           className="navbar-toggler"
@@ -64,7 +64,7 @@ class Nav extends Component {
                 className={window.location.pathname === "/saved" ? "nav-link active" : "nav-link"}
                 to="/saved"
               >
-                Saved
+                Your Book Library
               </Link>
             </li>
           </ul>

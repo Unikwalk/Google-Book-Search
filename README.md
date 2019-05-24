@@ -7,16 +7,29 @@
 * The "Save" option will save the selected books into the database for later viewing.
 * Users also have the option to "Delete" the saved books in their "Saved" repository.
 
-## Technologies Used
-* `React`
-* `Node`
-* `Express`
-* `MongoDB`
 
-## How to Install
-* Clone the repository and run `npm install`
-* Run `mongod` to activate the MongoDB
-* Then run `npm start` to open on browser localhost:3000
+## Technologies Used:
+
+* React
+* Node
+* Express
+* MongoDB
+* HTML
+* CSS
+* Google Books API
+* Heroku
+* GitHub
+
+
+## How to Install:
+
+Following these steps and run from the root (global) directory:
+1. Clone the repository and run `npm install`
+2. Run `mongod` to activate MongoDB
+3. Run `npm start` to open on browser localhost:3000
+4. If an error occurs with react-scripts, run `npm install react-scripts --save`
+
 
 ## Deployment
-Check out this app on Heroku: [Google Books Search](https://git.heroku.com/calm-shelf-39694.git)
+
+Check out this app on Heroku: [Books Search](https://git.heroku.com/calm-shelf-39694.git)

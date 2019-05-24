@@ -63,13 +63,13 @@ class Home extends Component {
           <Col size="md-12">
             <Jumbotron>
               <h1 className="text-center">
-                <strong>Google Books Search</strong>
+                <strong>Books Search</strong>
               </h1>
-              <h2 className="text-center">Start typing to begin!</h2>
+              <h2 className="text-center">Start typing a title!</h2>
             </Jumbotron>
           </Col>
           <Col size="md-12">
-            <Card title="Book Search" icon="far fa-book">
+            <Card title="Search Title" icon="far fa-book">
               <Form
                 handleInputChange={this.handleInputChange}
                 handleFormSubmit={this.handleFormSubmit}
@@ -95,7 +95,7 @@ class Home extends Component {
                       Button={() => (
                         <button
                           onClick={() => this.handleBookSave(book.id)}
-                          className="btn btn-primary ml-2"
+                          className="btn ml-2"
                         >
                           Save
                         </button>

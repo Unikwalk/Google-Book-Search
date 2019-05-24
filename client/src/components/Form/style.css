@@ -1,4 +1,14 @@
-.btn {
-    background-color: #F9BDC0;
-    color: white
+button {
+    color: white;
+    background-color: #54424B;
 }
+
+button:hover {
+    background-color: #3C6C3C
+}
+
+label{
+    font-family: 'Unica One', cursive;
+}
+
+
